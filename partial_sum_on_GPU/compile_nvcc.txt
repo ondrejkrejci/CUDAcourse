@@ -1,0 +1,1 @@
+nvcc --resource-usage -arch=sm_60 matmul.cu # note sm_60 for pascal sm_70 for volta

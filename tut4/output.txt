@@ -1,0 +1,15 @@
+GPU heat spreading on a tensor 66 x 66 x 66, where the 1st and last voxel are fixed boundaries
+3D_i_cpu.txt written  
+^[[A^[[ACPU time: 450113.452000 ms 
+3D_f_cpu.txt written  
+GPU simple time: 2957.283000 ms 
+difference between CPU 1st and GPU 1run run: 0.006744 
+3D_f_gpu.txt written  
+GPU shared time: 2776.283000 ms 
+difference between GPU 1st and GPU 2run run: 0.000000 
+3D_f_gpu2.txt written  
+GPU shared time: 2644.966000 ms 
+difference between GPU 1st and GPU 3run run: 0.000000 
+3D_f_gpu3.txt written  
+
+ done! 
